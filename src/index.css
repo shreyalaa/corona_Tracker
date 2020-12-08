@@ -1,0 +1,37 @@
+.forms{
+  background-color: cadetblue;
+}
+.forms h1{
+  background-color: crimson;
+  text-align: center;
+  font-size: 2cm;
+  font-family: cursive ;
+}
+
+.button{
+   padding: 2px , 2px;
+   border-radius: 20px;
+   cursor: pointer;
+   height: 1cm;
+   width: 3cm;
+ 
+ background-color: crimson;
+ font-family: fantasy;
+ border: none;
+ margin-left: 13.5cm;
+ margin-top: 1cm ;
+ outline: none;
+
+  
+}
+
+.forms input{
+  margin-left: 12cm;
+  height: 1cm;
+  width: 6cm;
+  border-radius: 20px;
+  outline: none;
+  color: rgb(0, 0, 0);
+  background-color: crimson;
+  text-align: center;
+}
